@@ -1,8 +1,8 @@
-# dog-badge
+# Are you a big dog?
 
 A light-hearted badge set for self-identifying your "academic food chain" level in READMEs, docs, and websites.
 
-This project is intentionally comedic. It is **not** a credentialing system, official ranking, or assessment framework.
+This project is intentionally comedic, I think. Low key it is real though. Use it to break the ice or just be proud ot be a big dog. FYI there are not that many t-rex's so chill.
 
 ## Levels (low to high)
 
