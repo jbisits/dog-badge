@@ -36,76 +36,88 @@ write_illustrated() {
   case "$key" in
     earth-worm)
       icon=$(cat <<'ICON'
-<g transform="translate(82 82)">
-  <path d="M-38 14 C-31 -14, -11 -27, 3 -15 C15 -4, 14 12, 27 14 C44 17, 44 37, 28 39 C14 41, 5 31, -7 32 C-23 33, -43 31, -44 22 C-44 19, -41 16, -38 14 Z" fill="#8b5a2b"/>
-  <path d="M-36 21 C-21 26, -4 20, 8 25 C19 29, 32 29, 36 24" fill="none" stroke="#6b3d1f" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="-18" cy="6" r="3.2" fill="#ffffff"/>
-  <circle cx="-18" cy="6" r="1.4" fill="#111827"/>
+<g transform="translate(84 84)">
+  <path d="M-44 18 C-35 -17, 3 -24, 21 -8 C32 2, 31 18, 43 20 C55 22, 58 40, 44 46 C31 51, 18 43, 7 43 C-5 43, -20 49, -34 44 C-49 39, -51 25, -44 18 Z" fill="#8b5a2b"/>
+  <path d="M-37 24 C-24 30, -10 24, 1 29 C11 34, 26 34, 34 28" fill="none" stroke="#6b3d1f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M-20 30 C-7 35, 7 30, 16 35 C23 39, 33 39, 38 35" fill="none" stroke="#6b3d1f" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="-15" cy="8" r="3.3" fill="#ffffff"/>
+  <circle cx="-15" cy="8" r="1.5" fill="#111827"/>
 </g>
 ICON
 )
       ;;
     small-dog)
       icon=$(cat <<'ICON'
-<g transform="translate(82 83)">
-  <ellipse cx="-3" cy="18" rx="33" ry="20" fill="#f7c38f"/>
-  <circle cx="27" cy="6" r="14" fill="#f7c38f"/>
-  <path d="M19 -2 L10 -16 L28 -9 Z" fill="#e5a56b"/>
-  <circle cx="31" cy="4" r="2" fill="#111827"/>
-  <circle cx="36" cy="9" r="1.8" fill="#111827"/>
-  <rect x="-28" y="33" width="7" height="17" rx="3" fill="#e5a56b"/>
-  <rect x="-3" y="34" width="7" height="16" rx="3" fill="#e5a56b"/>
-  <path d="M-34 16 C-47 10, -53 -2, -44 -8" fill="none" stroke="#e5a56b" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(84 82)">
+  <ellipse cx="-4" cy="22" rx="38" ry="22" fill="#f7c38f"/>
+  <circle cx="34" cy="11" r="15" fill="#f7c38f"/>
+  <ellipse cx="47" cy="16" rx="11" ry="8" fill="#fbe0c4"/>
+  <path d="M25 -1 C17 -8, 14 3, 22 11 C29 15, 35 8, 33 1 Z" fill="#e5a56b"/>
+  <circle cx="39" cy="9" r="2.1" fill="#111827"/>
+  <circle cx="52" cy="16" r="2.2" fill="#111827"/>
+  <path d="M50 20 C47 23, 44 23, 41 20" fill="none" stroke="#111827" stroke-width="1.6" stroke-linecap="round"/>
+  <rect x="-25" y="38" width="8" height="19" rx="3" fill="#e5a56b"/>
+  <rect x="-2" y="38" width="8" height="19" rx="3" fill="#e5a56b"/>
+  <path d="M-41 23 C-56 16, -58 1, -46 -9" fill="none" stroke="#e5a56b" stroke-width="6" stroke-linecap="round"/>
+  <rect x="18" y="22" width="14" height="6" rx="3" fill="#3b82c4"/>
 </g>
 ICON
 )
       ;;
     medium-dog)
       icon=$(cat <<'ICON'
-<g transform="translate(82 82)">
-  <ellipse cx="0" cy="18" rx="38" ry="23" fill="#d8a46f"/>
-  <circle cx="31" cy="4" r="16" fill="#d8a46f"/>
-  <path d="M21 -6 L8 -22 L29 -13 Z" fill="#bc7f4e"/>
-  <circle cx="36" cy="2" r="2.2" fill="#111827"/>
-  <circle cx="42" cy="9" r="2" fill="#111827"/>
-  <rect x="-30" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
-  <rect x="-8" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
-  <rect x="16" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
-  <path d="M-40 18 C-57 13, -61 -2, -50 -11" fill="none" stroke="#bc7f4e" stroke-width="6" stroke-linecap="round"/>
-  <rect x="7" y="23" width="16" height="6" rx="2" fill="#1f2937"/>
+<g transform="translate(84 81)">
+  <ellipse cx="0" cy="24" rx="43" ry="25" fill="#d8a46f"/>
+  <circle cx="38" cy="10" r="18" fill="#d8a46f"/>
+  <ellipse cx="53" cy="16" rx="13" ry="9" fill="#e8c199"/>
+  <path d="M28 -2 C18 -12, 13 1, 21 13 C29 19, 38 11, 36 2 Z" fill="#bc7f4e"/>
+  <path d="M40 -5 C48 -14, 54 -4, 49 5" fill="none" stroke="#bc7f4e" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="43" cy="8" r="2.3" fill="#111827"/>
+  <circle cx="59" cy="16" r="2.4" fill="#111827"/>
+  <path d="M56 21 C52 24, 48 24, 45 21" fill="none" stroke="#111827" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="-29" y="41" width="9" height="21" rx="3" fill="#bc7f4e"/>
+  <rect x="-6" y="41" width="9" height="21" rx="3" fill="#bc7f4e"/>
+  <rect x="17" y="41" width="9" height="21" rx="3" fill="#bc7f4e"/>
+  <path d="M-46 24 C-64 16, -65 -2, -52 -14" fill="none" stroke="#bc7f4e" stroke-width="7" stroke-linecap="round"/>
+  <rect x="21" y="25" width="17" height="7" rx="3" fill="#2f855a"/>
 </g>
 ICON
 )
       ;;
     big-dog)
       icon=$(cat <<'ICON'
-<g transform="translate(82 80)">
-  <ellipse cx="3" cy="20" rx="42" ry="26" fill="#b9773f"/>
-  <circle cx="35" cy="2" r="18" fill="#b9773f"/>
-  <path d="M23 -9 L7 -27 L31 -15 Z" fill="#8f582d"/>
-  <circle cx="41" cy="0" r="2.4" fill="#111827"/>
-  <circle cx="48" cy="10" r="2.2" fill="#111827"/>
-  <rect x="-31" y="40" width="9" height="23" rx="3" fill="#8f582d"/>
-  <rect x="-9" y="40" width="9" height="23" rx="3" fill="#8f582d"/>
-  <rect x="15" y="40" width="9" height="23" rx="3" fill="#8f582d"/>
-  <path d="M-44 20 C-61 13, -67 -4, -53 -15" fill="none" stroke="#8f582d" stroke-width="7" stroke-linecap="round"/>
-  <path d="M4 -26 L11 -16 L22 -19 L16 -9 L23 1 L11 -4 L0 1 L6 -10 Z" fill="#f59e0b"/>
+<g transform="translate(84 80)">
+  <ellipse cx="4" cy="27" rx="48" ry="28" fill="#b9773f"/>
+  <circle cx="42" cy="12" r="20" fill="#b9773f"/>
+  <ellipse cx="58" cy="19" rx="15" ry="11" fill="#d09a6a"/>
+  <path d="M30 -2 C18 -13, 13 1, 22 15 C30 23, 40 14, 38 3 Z" fill="#8f582d"/>
+  <path d="M45 -4 C55 -14, 61 -1, 54 8" fill="none" stroke="#8f582d" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="47" cy="9" r="2.4" fill="#111827"/>
+  <circle cx="64" cy="20" r="2.7" fill="#111827"/>
+  <path d="M61 25 C56 29, 51 29, 47 25" fill="none" stroke="#111827" stroke-width="2.1" stroke-linecap="round"/>
+  <ellipse cx="20" cy="30" rx="11" ry="8" fill="#d09a6a"/>
+  <rect x="-32" y="45" width="10" height="24" rx="3" fill="#8f582d"/>
+  <rect x="-8" y="45" width="10" height="24" rx="3" fill="#8f582d"/>
+  <rect x="17" y="45" width="10" height="24" rx="3" fill="#8f582d"/>
+  <path d="M-49 27 C-68 18, -70 -2, -55 -16" fill="none" stroke="#8f582d" stroke-width="8" stroke-linecap="round"/>
+  <rect x="24" y="30" width="19" height="8" rx="3" fill="#c05621"/>
 </g>
 ICON
 )
       ;;
     t-rex)
       icon=$(cat <<'ICON'
-<g transform="translate(84 86)">
-  <path d="M-48 20 C-38 -8, -6 -20, 25 -13 C45 -9, 57 2, 53 15 C50 26, 35 27, 22 22 L8 26 L-10 25 L-24 34 L-44 34 Z" fill="#5f9a56"/>
-  <path d="M25 -12 C34 -21, 49 -21, 58 -12 C64 -5, 65 8, 56 14 C50 18, 39 18, 32 13" fill="#5f9a56"/>
-  <circle cx="47" cy="-5" r="2.8" fill="#111827"/>
-  <path d="M54 2 L60 6 L52 8" fill="#ffffff"/>
-  <path d="M7 14 L16 8" stroke="#3f6e39" stroke-width="4" stroke-linecap="round"/>
-  <path d="M15 18 L24 12" stroke="#3f6e39" stroke-width="4" stroke-linecap="round"/>
-  <rect x="-22" y="33" width="9" height="24" rx="3" fill="#3f6e39"/>
-  <rect x="0" y="33" width="9" height="24" rx="3" fill="#3f6e39"/>
-  <path d="M-50 20 C-67 25, -73 40, -57 47" fill="none" stroke="#3f6e39" stroke-width="8" stroke-linecap="round"/>
+<g transform="translate(86 85)">
+  <path d="M-52 24 C-40 -4, -8 -20, 26 -14 C47 -10, 62 2, 60 17 C58 31, 41 34, 24 30 L7 34 L-13 34 L-30 42 L-52 40 Z" fill="#5f9a56"/>
+  <path d="M24 -13 C35 -24, 55 -24, 66 -12 C73 -5, 73 10, 62 17 C54 22, 42 22, 32 15" fill="#5f9a56"/>
+  <circle cx="53" cy="-5" r="3" fill="#111827"/>
+  <path d="M58 3 L67 7 L56 10 Z" fill="#ffffff"/>
+  <path d="M8 20 L19 12" stroke="#3f6e39" stroke-width="5" stroke-linecap="round"/>
+  <path d="M19 23 L29 16" stroke="#3f6e39" stroke-width="5" stroke-linecap="round"/>
+  <rect x="-22" y="40" width="10" height="24" rx="3" fill="#3f6e39"/>
+  <rect x="2" y="40" width="10" height="24" rx="3" fill="#3f6e39"/>
+  <path d="M-53 26 C-73 34, -80 50, -62 60" fill="none" stroke="#3f6e39" stroke-width="9" stroke-linecap="round"/>
+  <path d="M-6 -5 L1 -13 L8 -5 L15 -13 L22 -5" fill="none" stroke="#3f6e39" stroke-width="3" stroke-linecap="round"/>
 </g>
 ICON
 )
@@ -129,9 +141,7 @@ ICON
   <circle cx="390" cy="22" r="5" fill="${accent}" fill-opacity="0.35"/>
   <circle cx="406" cy="36" r="3" fill="${accent}" fill-opacity="0.35"/>
   <circle cx="372" cy="38" r="2.5" fill="${accent}" fill-opacity="0.35"/>
-  <text x="154" y="45" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700" fill="${ink}">Academic Canine Ladder</text>
-  <text x="154" y="84" font-family="Trebuchet MS, Verdana, sans-serif" font-size="29" font-weight="800" fill="${ink}">${label}</text>
-  <text x="154" y="111" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" fill="${ink}">comedic status badge for researchers</text>
+  <text x="170" y="86" font-family="Trebuchet MS, Verdana, sans-serif" font-size="34" font-weight="800" fill="${ink}">${label}</text>
   ${icon}
 </svg>
 SVG
