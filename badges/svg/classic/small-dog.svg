@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="28" role="img" aria-label="Academic level: small dog">
+  <title>Academic level: small dog</title>
+  <rect width="320" height="28" fill="#2f343d" rx="4"/>
+  <rect x="138" width="182" height="28" fill="#3b82c4" rx="4"/>
+  <rect x="138" width="1" height="28" fill="#000" fill-opacity="0.25"/>
+  <text x="69" y="19" fill="#ffffff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="12" text-anchor="middle">academic level</text>
+  <text x="229" y="19" fill="#ffffff" font-family="Verdana, DejaVu Sans, sans-serif" font-size="12" font-weight="700" text-anchor="middle">small dog</text>
+</svg>

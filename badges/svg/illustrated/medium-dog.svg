@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="140" viewBox="0 0 440 140" role="img" aria-label="Academic level: medium dog">
+  <title>Academic level: medium dog</title>
+  <defs>
+    <linearGradient id="bg-medium-dog" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#def7e8"/>
+      <stop offset="100%" stop-color="#aae3c4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="436" height="136" rx="22" fill="url(#bg-medium-dog)" stroke="#2f855a" stroke-width="3"/>
+  <circle cx="390" cy="22" r="5" fill="#2f855a" fill-opacity="0.35"/>
+  <circle cx="406" cy="36" r="3" fill="#2f855a" fill-opacity="0.35"/>
+  <circle cx="372" cy="38" r="2.5" fill="#2f855a" fill-opacity="0.35"/>
+  <text x="154" y="45" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700" fill="#1f4f37">Academic Canine Ladder</text>
+  <text x="154" y="84" font-family="Trebuchet MS, Verdana, sans-serif" font-size="29" font-weight="800" fill="#1f4f37">medium dog</text>
+  <text x="154" y="111" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" fill="#1f4f37">comedic status badge for researchers</text>
+  <g transform="translate(82 82)">
+  <ellipse cx="0" cy="18" rx="38" ry="23" fill="#d8a46f"/>
+  <circle cx="31" cy="4" r="16" fill="#d8a46f"/>
+  <path d="M21 -6 L8 -22 L29 -13 Z" fill="#bc7f4e"/>
+  <circle cx="36" cy="2" r="2.2" fill="#111827"/>
+  <circle cx="42" cy="9" r="2" fill="#111827"/>
+  <rect x="-30" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
+  <rect x="-8" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
+  <rect x="16" y="36" width="8" height="20" rx="3" fill="#bc7f4e"/>
+  <path d="M-40 18 C-57 13, -61 -2, -50 -11" fill="none" stroke="#bc7f4e" stroke-width="6" stroke-linecap="round"/>
+  <rect x="7" y="23" width="16" height="6" rx="2" fill="#1f2937"/>
+</g>
+</svg>

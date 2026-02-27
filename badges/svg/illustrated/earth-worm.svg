@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="140" viewBox="0 0 440 140" role="img" aria-label="Academic level: earth worm">
+  <title>Academic level: earth worm</title>
+  <defs>
+    <linearGradient id="bg-earth-worm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8ebd7"/>
+      <stop offset="100%" stop-color="#e7cc9f"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="436" height="136" rx="22" fill="url(#bg-earth-worm)" stroke="#8b5a2b" stroke-width="3"/>
+  <circle cx="390" cy="22" r="5" fill="#8b5a2b" fill-opacity="0.35"/>
+  <circle cx="406" cy="36" r="3" fill="#8b5a2b" fill-opacity="0.35"/>
+  <circle cx="372" cy="38" r="2.5" fill="#8b5a2b" fill-opacity="0.35"/>
+  <text x="154" y="45" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700" fill="#3b2f1f">Academic Canine Ladder</text>
+  <text x="154" y="84" font-family="Trebuchet MS, Verdana, sans-serif" font-size="29" font-weight="800" fill="#3b2f1f">earth worm</text>
+  <text x="154" y="111" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" fill="#3b2f1f">comedic status badge for researchers</text>
+  <g transform="translate(82 82)">
+  <path d="M-38 14 C-31 -14, -11 -27, 3 -15 C15 -4, 14 12, 27 14 C44 17, 44 37, 28 39 C14 41, 5 31, -7 32 C-23 33, -43 31, -44 22 C-44 19, -41 16, -38 14 Z" fill="#8b5a2b"/>
+  <path d="M-36 21 C-21 26, -4 20, 8 25 C19 29, 32 29, 36 24" fill="none" stroke="#6b3d1f" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="-18" cy="6" r="3.2" fill="#ffffff"/>
+  <circle cx="-18" cy="6" r="1.4" fill="#111827"/>
+</g>
+</svg>

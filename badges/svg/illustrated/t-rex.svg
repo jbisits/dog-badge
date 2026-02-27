@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="140" viewBox="0 0 440 140" role="img" aria-label="Academic level: t-rex">
+  <title>Academic level: t-rex</title>
+  <defs>
+    <linearGradient id="bg-t-rex" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe1e1"/>
+      <stop offset="100%" stop-color="#ffabab"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="436" height="136" rx="22" fill="url(#bg-t-rex)" stroke="#7f1d1d" stroke-width="3"/>
+  <circle cx="390" cy="22" r="5" fill="#7f1d1d" fill-opacity="0.35"/>
+  <circle cx="406" cy="36" r="3" fill="#7f1d1d" fill-opacity="0.35"/>
+  <circle cx="372" cy="38" r="2.5" fill="#7f1d1d" fill-opacity="0.35"/>
+  <text x="154" y="45" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700" fill="#4a1212">Academic Canine Ladder</text>
+  <text x="154" y="84" font-family="Trebuchet MS, Verdana, sans-serif" font-size="29" font-weight="800" fill="#4a1212">t-rex</text>
+  <text x="154" y="111" font-family="Trebuchet MS, Verdana, sans-serif" font-size="14" fill="#4a1212">comedic status badge for researchers</text>
+  <g transform="translate(84 86)">
+  <path d="M-48 20 C-38 -8, -6 -20, 25 -13 C45 -9, 57 2, 53 15 C50 26, 35 27, 22 22 L8 26 L-10 25 L-24 34 L-44 34 Z" fill="#5f9a56"/>
+  <path d="M25 -12 C34 -21, 49 -21, 58 -12 C64 -5, 65 8, 56 14 C50 18, 39 18, 32 13" fill="#5f9a56"/>
+  <circle cx="47" cy="-5" r="2.8" fill="#111827"/>
+  <path d="M54 2 L60 6 L52 8" fill="#ffffff"/>
+  <path d="M7 14 L16 8" stroke="#3f6e39" stroke-width="4" stroke-linecap="round"/>
+  <path d="M15 18 L24 12" stroke="#3f6e39" stroke-width="4" stroke-linecap="round"/>
+  <rect x="-22" y="33" width="9" height="24" rx="3" fill="#3f6e39"/>
+  <rect x="0" y="33" width="9" height="24" rx="3" fill="#3f6e39"/>
+  <path d="M-50 20 C-67 25, -73 40, -57 47" fill="none" stroke="#3f6e39" stroke-width="8" stroke-linecap="round"/>
+</g>
+</svg>
